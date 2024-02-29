@@ -260,7 +260,7 @@ Function Prototypes
 <details>
     <summary>ONOYIMA BONIFACE</summary>
     <ul>
-    <li><a href="https://www.github.com/onoyimab">Github</a></li>
+    <li><a href="https://www.github.com/onoyima">Github</a></li>
     
     <li><a href="mailto:clintonfaze@outlook.com">e-mail</a></li>
     </ul>
